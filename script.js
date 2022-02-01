@@ -1,5 +1,6 @@
 
-//creating a basic server
+// (creating a basic server)
+
 const http = require("http"); // http is built in module ; import code node "http" module. Allows to creat server
 
 const hostname = "127.0.0.1";
